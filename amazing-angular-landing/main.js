@@ -70,30 +70,28 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
 /* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm5/router.js");
 /* harmony import */ var _app_component__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./app.component */ "./src/app/app.component.ts");
-/* harmony import */ var _pages_not_found_not_found_component__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./pages/not-found/not-found.component */ "./src/app/pages/not-found/not-found.component.ts");
-/* harmony import */ var _pages_index_index_component__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./pages/index/index.component */ "./src/app/pages/index/index.component.ts");
-/* harmony import */ var _layout_big_hero_big_hero_component__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./layout/big-hero/big-hero.component */ "./src/app/layout/big-hero/big-hero.component.ts");
-/* harmony import */ var _layout_button_button_component__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./layout/button/button.component */ "./src/app/layout/button/button.component.ts");
-/* harmony import */ var _layout_textstyles_white_directive__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./layout/textstyles/white.directive */ "./src/app/layout/textstyles/white.directive.ts");
-/* harmony import */ var _layout_textstyles_black_directive__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./layout/textstyles/black.directive */ "./src/app/layout/textstyles/black.directive.ts");
-/* harmony import */ var _layout_textstyles_grey_directive__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./layout/textstyles/grey.directive */ "./src/app/layout/textstyles/grey.directive.ts");
-/* harmony import */ var _layout_textstyles_italic_directive__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./layout/textstyles/italic.directive */ "./src/app/layout/textstyles/italic.directive.ts");
-/* harmony import */ var _layout_legend_legend_component__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./layout/legend/legend.component */ "./src/app/layout/legend/legend.component.ts");
-/* harmony import */ var _layout_headline_headline_component__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./layout/headline/headline.component */ "./src/app/layout/headline/headline.component.ts");
-/* harmony import */ var _layout_subtitle_subtitle_component__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./layout/subtitle/subtitle.component */ "./src/app/layout/subtitle/subtitle.component.ts");
-/* harmony import */ var _layout_container_container_component__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./layout/container/container.component */ "./src/app/layout/container/container.component.ts");
-/* harmony import */ var _layout_content_section_content_section_component__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ./layout/content-section/content-section.component */ "./src/app/layout/content-section/content-section.component.ts");
-/* harmony import */ var _layout_cards_cards_component__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ./layout/cards/cards.component */ "./src/app/layout/cards/cards.component.ts");
-/* harmony import */ var _layout_card_card_component__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ./layout/card/card.component */ "./src/app/layout/card/card.component.ts");
-/* harmony import */ var _layout_footer_footer_component__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! ./layout/footer/footer.component */ "./src/app/layout/footer/footer.component.ts");
-/* harmony import */ var _layout_textstyles_without_space_directive__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(/*! ./layout/textstyles/without-space.directive */ "./src/app/layout/textstyles/without-space.directive.ts");
-/* harmony import */ var _layout_client_client_component__WEBPACK_IMPORTED_MODULE_22__ = __webpack_require__(/*! ./layout/client/client.component */ "./src/app/layout/client/client.component.ts");
-/* harmony import */ var _layout_clients_clients_component__WEBPACK_IMPORTED_MODULE_23__ = __webpack_require__(/*! ./layout/clients/clients.component */ "./src/app/layout/clients/clients.component.ts");
-/* harmony import */ var _layout_header_header_component__WEBPACK_IMPORTED_MODULE_24__ = __webpack_require__(/*! ./layout/header/header.component */ "./src/app/layout/header/header.component.ts");
-/* harmony import */ var _layout_menu_menu_component__WEBPACK_IMPORTED_MODULE_25__ = __webpack_require__(/*! ./layout/menu/menu.component */ "./src/app/layout/menu/menu.component.ts");
-/* harmony import */ var _layout_logo_logo_component__WEBPACK_IMPORTED_MODULE_26__ = __webpack_require__(/*! ./layout/logo/logo.component */ "./src/app/layout/logo/logo.component.ts");
-/* harmony import */ var _layout_menu_item_menu_item_component__WEBPACK_IMPORTED_MODULE_27__ = __webpack_require__(/*! ./layout/menu-item/menu-item.component */ "./src/app/layout/menu-item/menu-item.component.ts");
-
+/* harmony import */ var _pages_index_index_component__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./pages/index/index.component */ "./src/app/pages/index/index.component.ts");
+/* harmony import */ var _layout_big_hero_big_hero_component__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./layout/big-hero/big-hero.component */ "./src/app/layout/big-hero/big-hero.component.ts");
+/* harmony import */ var _layout_button_button_component__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./layout/button/button.component */ "./src/app/layout/button/button.component.ts");
+/* harmony import */ var _layout_textstyles_white_directive__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./layout/textstyles/white.directive */ "./src/app/layout/textstyles/white.directive.ts");
+/* harmony import */ var _layout_textstyles_black_directive__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./layout/textstyles/black.directive */ "./src/app/layout/textstyles/black.directive.ts");
+/* harmony import */ var _layout_textstyles_grey_directive__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./layout/textstyles/grey.directive */ "./src/app/layout/textstyles/grey.directive.ts");
+/* harmony import */ var _layout_textstyles_italic_directive__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./layout/textstyles/italic.directive */ "./src/app/layout/textstyles/italic.directive.ts");
+/* harmony import */ var _layout_legend_legend_component__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./layout/legend/legend.component */ "./src/app/layout/legend/legend.component.ts");
+/* harmony import */ var _layout_headline_headline_component__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./layout/headline/headline.component */ "./src/app/layout/headline/headline.component.ts");
+/* harmony import */ var _layout_subtitle_subtitle_component__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./layout/subtitle/subtitle.component */ "./src/app/layout/subtitle/subtitle.component.ts");
+/* harmony import */ var _layout_container_container_component__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./layout/container/container.component */ "./src/app/layout/container/container.component.ts");
+/* harmony import */ var _layout_content_section_content_section_component__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./layout/content-section/content-section.component */ "./src/app/layout/content-section/content-section.component.ts");
+/* harmony import */ var _layout_cards_cards_component__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ./layout/cards/cards.component */ "./src/app/layout/cards/cards.component.ts");
+/* harmony import */ var _layout_card_card_component__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ./layout/card/card.component */ "./src/app/layout/card/card.component.ts");
+/* harmony import */ var _layout_footer_footer_component__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ./layout/footer/footer.component */ "./src/app/layout/footer/footer.component.ts");
+/* harmony import */ var _layout_textstyles_without_space_directive__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! ./layout/textstyles/without-space.directive */ "./src/app/layout/textstyles/without-space.directive.ts");
+/* harmony import */ var _layout_client_client_component__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(/*! ./layout/client/client.component */ "./src/app/layout/client/client.component.ts");
+/* harmony import */ var _layout_clients_clients_component__WEBPACK_IMPORTED_MODULE_22__ = __webpack_require__(/*! ./layout/clients/clients.component */ "./src/app/layout/clients/clients.component.ts");
+/* harmony import */ var _layout_header_header_component__WEBPACK_IMPORTED_MODULE_23__ = __webpack_require__(/*! ./layout/header/header.component */ "./src/app/layout/header/header.component.ts");
+/* harmony import */ var _layout_menu_menu_component__WEBPACK_IMPORTED_MODULE_24__ = __webpack_require__(/*! ./layout/menu/menu.component */ "./src/app/layout/menu/menu.component.ts");
+/* harmony import */ var _layout_logo_logo_component__WEBPACK_IMPORTED_MODULE_25__ = __webpack_require__(/*! ./layout/logo/logo.component */ "./src/app/layout/logo/logo.component.ts");
+/* harmony import */ var _layout_menu_item_menu_item_component__WEBPACK_IMPORTED_MODULE_26__ = __webpack_require__(/*! ./layout/menu-item/menu-item.component */ "./src/app/layout/menu-item/menu-item.component.ts");
 
 
 
@@ -123,8 +121,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var routes = [
     { path: '', redirectTo: '/index', pathMatch: 'full' },
-    { path: 'index', component: _pages_index_index_component__WEBPACK_IMPORTED_MODULE_6__["IndexComponent"] },
-    { path: '**', component: _pages_not_found_not_found_component__WEBPACK_IMPORTED_MODULE_5__["NotFoundComponent"] }
+    { path: 'index', component: _pages_index_index_component__WEBPACK_IMPORTED_MODULE_5__["IndexComponent"] }
 ];
 var AppModule = /** @class */ (function () {
     function AppModule() {
@@ -133,29 +130,28 @@ var AppModule = /** @class */ (function () {
         Object(_angular_core__WEBPACK_IMPORTED_MODULE_2__["NgModule"])({
             declarations: [
                 _app_component__WEBPACK_IMPORTED_MODULE_4__["AppComponent"],
-                _pages_not_found_not_found_component__WEBPACK_IMPORTED_MODULE_5__["NotFoundComponent"],
-                _pages_index_index_component__WEBPACK_IMPORTED_MODULE_6__["IndexComponent"],
-                _layout_big_hero_big_hero_component__WEBPACK_IMPORTED_MODULE_7__["BigHeroComponent"],
-                _layout_button_button_component__WEBPACK_IMPORTED_MODULE_8__["ButtonComponent"],
-                _layout_textstyles_white_directive__WEBPACK_IMPORTED_MODULE_9__["WhiteDirective"],
-                _layout_textstyles_black_directive__WEBPACK_IMPORTED_MODULE_10__["BlackDirective"],
-                _layout_textstyles_grey_directive__WEBPACK_IMPORTED_MODULE_11__["GreyDirective"],
-                _layout_textstyles_italic_directive__WEBPACK_IMPORTED_MODULE_12__["ItalicDirective"],
-                _layout_legend_legend_component__WEBPACK_IMPORTED_MODULE_13__["LegendComponent"],
-                _layout_headline_headline_component__WEBPACK_IMPORTED_MODULE_14__["HeadlineComponent"],
-                _layout_subtitle_subtitle_component__WEBPACK_IMPORTED_MODULE_15__["SubtitleComponent"],
-                _layout_container_container_component__WEBPACK_IMPORTED_MODULE_16__["ContainerComponent"],
-                _layout_content_section_content_section_component__WEBPACK_IMPORTED_MODULE_17__["ContentSectionComponent"],
-                _layout_cards_cards_component__WEBPACK_IMPORTED_MODULE_18__["CardsComponent"],
-                _layout_card_card_component__WEBPACK_IMPORTED_MODULE_19__["CardComponent"],
-                _layout_footer_footer_component__WEBPACK_IMPORTED_MODULE_20__["FooterComponent"],
-                _layout_textstyles_without_space_directive__WEBPACK_IMPORTED_MODULE_21__["WithoutSpaceDirective"],
-                _layout_client_client_component__WEBPACK_IMPORTED_MODULE_22__["ClientComponent"],
-                _layout_clients_clients_component__WEBPACK_IMPORTED_MODULE_23__["ClientsComponent"],
-                _layout_header_header_component__WEBPACK_IMPORTED_MODULE_24__["HeaderComponent"],
-                _layout_menu_menu_component__WEBPACK_IMPORTED_MODULE_25__["MenuComponent"],
-                _layout_logo_logo_component__WEBPACK_IMPORTED_MODULE_26__["LogoComponent"],
-                _layout_menu_item_menu_item_component__WEBPACK_IMPORTED_MODULE_27__["MenuItemComponent"]
+                _pages_index_index_component__WEBPACK_IMPORTED_MODULE_5__["IndexComponent"],
+                _layout_big_hero_big_hero_component__WEBPACK_IMPORTED_MODULE_6__["BigHeroComponent"],
+                _layout_button_button_component__WEBPACK_IMPORTED_MODULE_7__["ButtonComponent"],
+                _layout_textstyles_white_directive__WEBPACK_IMPORTED_MODULE_8__["WhiteDirective"],
+                _layout_textstyles_black_directive__WEBPACK_IMPORTED_MODULE_9__["BlackDirective"],
+                _layout_textstyles_grey_directive__WEBPACK_IMPORTED_MODULE_10__["GreyDirective"],
+                _layout_textstyles_italic_directive__WEBPACK_IMPORTED_MODULE_11__["ItalicDirective"],
+                _layout_legend_legend_component__WEBPACK_IMPORTED_MODULE_12__["LegendComponent"],
+                _layout_headline_headline_component__WEBPACK_IMPORTED_MODULE_13__["HeadlineComponent"],
+                _layout_subtitle_subtitle_component__WEBPACK_IMPORTED_MODULE_14__["SubtitleComponent"],
+                _layout_container_container_component__WEBPACK_IMPORTED_MODULE_15__["ContainerComponent"],
+                _layout_content_section_content_section_component__WEBPACK_IMPORTED_MODULE_16__["ContentSectionComponent"],
+                _layout_cards_cards_component__WEBPACK_IMPORTED_MODULE_17__["CardsComponent"],
+                _layout_card_card_component__WEBPACK_IMPORTED_MODULE_18__["CardComponent"],
+                _layout_footer_footer_component__WEBPACK_IMPORTED_MODULE_19__["FooterComponent"],
+                _layout_textstyles_without_space_directive__WEBPACK_IMPORTED_MODULE_20__["WithoutSpaceDirective"],
+                _layout_client_client_component__WEBPACK_IMPORTED_MODULE_21__["ClientComponent"],
+                _layout_clients_clients_component__WEBPACK_IMPORTED_MODULE_22__["ClientsComponent"],
+                _layout_header_header_component__WEBPACK_IMPORTED_MODULE_23__["HeaderComponent"],
+                _layout_menu_menu_component__WEBPACK_IMPORTED_MODULE_24__["MenuComponent"],
+                _layout_logo_logo_component__WEBPACK_IMPORTED_MODULE_25__["LogoComponent"],
+                _layout_menu_item_menu_item_component__WEBPACK_IMPORTED_MODULE_26__["MenuItemComponent"]
             ],
             imports: [
                 _angular_platform_browser__WEBPACK_IMPORTED_MODULE_1__["BrowserModule"],
@@ -190,7 +186,7 @@ module.exports = "<div class=\"big-hero-div\">\r\n  <container>\r\n    <ng-conte
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = ":host {\n  background: url('/amazing-angular-landing/assets/images/office.jpg') no-repeat 50%;\n  background-size: cover;\n  width: 100%;\n  height: 90vh;\n  display: block;\n}\n:host .big-hero-div {\n  width: 100%;\n  height: 90vh;\n  background-image: linear-gradient(133deg, rgba(26, 2, 42, 0.75), rgba(130, 0, 42, 0.6));\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n}\n\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvbGF5b3V0L2JpZy1oZXJvL0Q6L1Byb2plY3RzL2FtYXppbmctYW5ndWxhci1sYW5kaW5nL3NyYy9hcHAvbGF5b3V0L2JpZy1oZXJvL2JpZy1oZXJvLmNvbXBvbmVudC5sZXNzIiwic3JjL2FwcC9sYXlvdXQvYmlnLWhlcm8vYmlnLWhlcm8uY29tcG9uZW50Lmxlc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSxrRkFBQTtFQUNBLHNCQUFBO0VBQ0EsV0FBQTtFQUNBLFlBQUE7RUFDQSxjQUFBO0FDQ0Y7QUROQTtFQU9JLFdBQUE7RUFDQSxZQUFBO0VBQ0EsdUZBQUE7RUFDQSxhQUFBO0VBQ0Esc0JBQUE7RUFDQSx1QkFBQTtFQUNBLG1CQUFBO0FDRUoiLCJmaWxlIjoic3JjL2FwcC9sYXlvdXQvYmlnLWhlcm8vYmlnLWhlcm8uY29tcG9uZW50Lmxlc3MiLCJzb3VyY2VzQ29udGVudCI6WyI6aG9zdCB7XG4gIGJhY2tncm91bmQ6IHVybCgvYXNzZXRzL2ltYWdlcy9vZmZpY2UuanBnKSBuby1yZXBlYXQgNTAlO1xuICBiYWNrZ3JvdW5kLXNpemU6IGNvdmVyO1xuICB3aWR0aDogMTAwJTtcbiAgaGVpZ2h0OiA5MHZoO1xuICBkaXNwbGF5OiBibG9jaztcbiAgLmJpZy1oZXJvLWRpdiB7XG4gICAgd2lkdGg6IDEwMCU7XG4gICAgaGVpZ2h0OiA5MHZoO1xuICAgIGJhY2tncm91bmQtaW1hZ2U6IGxpbmVhci1ncmFkaWVudCgxMzNkZWcsIHJnYmEoMjYsMiw0MiwuNzUpLCByZ2JhKDEzMCwwLDQyLC42KSk7XG4gICAgZGlzcGxheTogZmxleDtcbiAgICBmbGV4LWRpcmVjdGlvbjogY29sdW1uO1xuICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gIH1cbn0iLCI6aG9zdCB7XG4gIGJhY2tncm91bmQ6IHVybCgvYXNzZXRzL2ltYWdlcy9vZmZpY2UuanBnKSBuby1yZXBlYXQgNTAlO1xuICBiYWNrZ3JvdW5kLXNpemU6IGNvdmVyO1xuICB3aWR0aDogMTAwJTtcbiAgaGVpZ2h0OiA5MHZoO1xuICBkaXNwbGF5OiBibG9jaztcbn1cbjpob3N0IC5iaWctaGVyby1kaXYge1xuICB3aWR0aDogMTAwJTtcbiAgaGVpZ2h0OiA5MHZoO1xuICBiYWNrZ3JvdW5kLWltYWdlOiBsaW5lYXItZ3JhZGllbnQoMTMzZGVnLCByZ2JhKDI2LCAyLCA0MiwgMC43NSksIHJnYmEoMTMwLCAwLCA0MiwgMC42KSk7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XG4gIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICBhbGlnbi1pdGVtczogY2VudGVyO1xufVxuIl19 */"
+module.exports = ":host {\n  background-size: cover;\n  width: 100%;\n  height: 90vh;\n  display: block;\n}\n:host .big-hero-div {\n  width: 100%;\n  height: 90vh;\n  background-image: linear-gradient(133deg, rgba(26, 2, 42, 0.75), rgba(130, 0, 42, 0.6));\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n}\n\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvbGF5b3V0L2JpZy1oZXJvL0Q6L1Byb2plY3RzL2FtYXppbmctYW5ndWxhci1sYW5kaW5nL3NyYy9hcHAvbGF5b3V0L2JpZy1oZXJvL2JpZy1oZXJvLmNvbXBvbmVudC5sZXNzIiwic3JjL2FwcC9sYXlvdXQvYmlnLWhlcm8vYmlnLWhlcm8uY29tcG9uZW50Lmxlc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSxzQkFBQTtFQUNBLFdBQUE7RUFDQSxZQUFBO0VBQ0EsY0FBQTtBQ0NGO0FETEE7RUFNSSxXQUFBO0VBQ0EsWUFBQTtFQUNBLHVGQUFBO0VBQ0EsYUFBQTtFQUNBLHNCQUFBO0VBQ0EsdUJBQUE7RUFDQSxtQkFBQTtBQ0VKIiwiZmlsZSI6InNyYy9hcHAvbGF5b3V0L2JpZy1oZXJvL2JpZy1oZXJvLmNvbXBvbmVudC5sZXNzIiwic291cmNlc0NvbnRlbnQiOlsiOmhvc3Qge1xuICBiYWNrZ3JvdW5kLXNpemU6IGNvdmVyO1xuICB3aWR0aDogMTAwJTtcbiAgaGVpZ2h0OiA5MHZoO1xuICBkaXNwbGF5OiBibG9jaztcbiAgLmJpZy1oZXJvLWRpdiB7XG4gICAgd2lkdGg6IDEwMCU7XG4gICAgaGVpZ2h0OiA5MHZoO1xuICAgIGJhY2tncm91bmQtaW1hZ2U6IGxpbmVhci1ncmFkaWVudCgxMzNkZWcsIHJnYmEoMjYsMiw0MiwuNzUpLCByZ2JhKDEzMCwwLDQyLC42KSk7XG4gICAgZGlzcGxheTogZmxleDtcbiAgICBmbGV4LWRpcmVjdGlvbjogY29sdW1uO1xuICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gIH1cbn0iLCI6aG9zdCB7XG4gIGJhY2tncm91bmQtc2l6ZTogY292ZXI7XG4gIHdpZHRoOiAxMDAlO1xuICBoZWlnaHQ6IDkwdmg7XG4gIGRpc3BsYXk6IGJsb2NrO1xufVxuOmhvc3QgLmJpZy1oZXJvLWRpdiB7XG4gIHdpZHRoOiAxMDAlO1xuICBoZWlnaHQ6IDkwdmg7XG4gIGJhY2tncm91bmQtaW1hZ2U6IGxpbmVhci1ncmFkaWVudCgxMzNkZWcsIHJnYmEoMjYsIDIsIDQyLCAwLjc1KSwgcmdiYSgxMzAsIDAsIDQyLCAwLjYpKTtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjtcbiAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG59XG4iXX0= */"
 
 /***/ }),
 
@@ -209,17 +205,26 @@ __webpack_require__.r(__webpack_exports__);
 
 
 var BigHeroComponent = /** @class */ (function () {
-    function BigHeroComponent() {
+    function BigHeroComponent(el) {
+        this.el = el;
+        this.image = '';
     }
     BigHeroComponent.prototype.ngOnInit = function () {
+        console.log('big-hero image', this.image);
+        if (this.image != '')
+            this.el.nativeElement.style.background = "url(" + this.image + ")";
     };
+    tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
+        Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Input"])(),
+        tslib__WEBPACK_IMPORTED_MODULE_0__["__metadata"]("design:type", Object)
+    ], BigHeroComponent.prototype, "image", void 0);
     BigHeroComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
         Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
             selector: 'big-hero',
             template: __webpack_require__(/*! ./big-hero.component.html */ "./src/app/layout/big-hero/big-hero.component.html"),
             styles: [__webpack_require__(/*! ./big-hero.component.less */ "./src/app/layout/big-hero/big-hero.component.less")]
         }),
-        tslib__WEBPACK_IMPORTED_MODULE_0__["__metadata"]("design:paramtypes", [])
+        tslib__WEBPACK_IMPORTED_MODULE_0__["__metadata"]("design:paramtypes", [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ElementRef"]])
     ], BigHeroComponent);
     return BigHeroComponent;
 }());
@@ -646,7 +651,6 @@ var ContentSectionComponent = /** @class */ (function () {
         this.el = el;
     }
     ContentSectionComponent.prototype.ngOnInit = function () {
-        console.log('image', this.image);
         if (this.image != '')
             this.el.nativeElement.style.backgroundImage = "url(" + this.image + ")";
     };
@@ -1321,44 +1325,11 @@ var IndexComponent = /** @class */ (function () {
     IndexComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
         Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
             selector: 'index',
-            template: "\n    <header>\n      <logo></logo>\n      <menu></menu>\n    </header>\n\n    <big-hero>\n      <headline white>We\u2019re an App Design & Development Team</headline>\n      <legend grey italic>Experts in mobile & web technologies. We create beautiful, functional mobile apps and websites.</legend>\n      <btn>Click me</btn>\n    </big-hero>\n\n    <content-section>\n      <headline black>Trusted by clients across 8 countries</headline>\n      <clients>\n        <client image=\"./assets/images/client.png\"></client>\n        <client image=\"./assets/images/client.png\"></client>\n        <client image=\"./assets/images/client.png\"></client>\n        <client image=\"./assets/images/client.png\"></client>\n        <client image=\"./assets/images/client.png\"></client>\n        <client image=\"./assets/images/client.png\"></client>\n        <client image=\"./assets/images/client.png\"></client>\n        <client image=\"./assets/images/client.png\"></client>\n        <client image=\"./assets/images/client.png\"></client>\n        <client image=\"./assets/images/client.png\"></client>\n        <client image=\"./assets/images/client.png\"></client>\n        <client image=\"./assets/images/client.png\"></client>\n      </clients>\n    </content-section>\n\n    <content-section [image]=\"'./assets/images/content-section2.jpg'\">\n      <headline white>Let\u2019s Build A Better Product Together</headline>\n      <legend white italic>Our team of experienced designers and engineers have partnered with several startups and businesses. For over 10 years, we\u2019ve shipped software and continuously evolved our skills to meet the needs of our partners. From open-source to licensed enterprise tools, we stay sharp.</legend>\n      <btn>Click me</btn>\n      <subtitle white>Our students come from the smartest companies</subtitle>\n    </content-section>\n\n    <content-section>\n      <headline black>Let\u2019s Build A Better Product Together</headline>\n      <legend black italic>Our team of experienced designers and engineers have partnered with several startups and businesses. For over 10 years, we\u2019ve shipped software and continuously evolved our skills to meet the needs of our partners. From open-source to licensed enterprise tools, we stay sharp.</legend>\n      <br/>\n      <br/>\n      <br/>\n      <cards>\n        <a><card image=\"./assets/images/card.jpg\" legend=\"Brazil\" subtitle=\"Brasil\"></card></a>\n        <a><card image=\"./assets/images/card.jpg\" legend=\"Brazil\" subtitle=\"Brasil\"></card></a>\n        <a><card image=\"./assets/images/card.jpg\" legend=\"Brazil\" subtitle=\"Brasil\"></card></a>\n        <a><card image=\"./assets/images/card.jpg\" legend=\"Brazil\" subtitle=\"Brasil\"></card></a>\n        <a><card image=\"./assets/images/card.jpg\" legend=\"Brazil\" subtitle=\"Brasil\"></card></a>\n        <a><card image=\"./assets/images/card.jpg\" legend=\"Brazil\" subtitle=\"Brasil\"></card></a>\n      </cards>\n      <btn color='#e73536' inverted_color='#fff'>See other projects</btn>\n    </content-section>\n\n    <footer>\n      <logo></logo>\n      <subtitle>Oliver Longhi 2019</subtitle>\n    </footer>\n  "
+            template: "\n    <header>\n      <logo></logo>\n      <menu></menu>\n    </header>\n\n    <big-hero image=\"./assets/images/office.jpg\">\n      <headline white>We\u2019re an App Design & Development Team</headline>\n      <legend grey italic>Experts in mobile & web technologies. We create beautiful, functional mobile apps and websites.</legend>\n      <btn>Click me</btn>\n    </big-hero>\n\n    <content-section>\n      <headline black>Trusted by clients across 8 countries</headline>\n      <clients>\n        <client image=\"./assets/images/client.png\"></client>\n        <client image=\"./assets/images/client.png\"></client>\n        <client image=\"./assets/images/client.png\"></client>\n        <client image=\"./assets/images/client.png\"></client>\n        <client image=\"./assets/images/client.png\"></client>\n        <client image=\"./assets/images/client.png\"></client>\n        <client image=\"./assets/images/client.png\"></client>\n        <client image=\"./assets/images/client.png\"></client>\n        <client image=\"./assets/images/client.png\"></client>\n        <client image=\"./assets/images/client.png\"></client>\n        <client image=\"./assets/images/client.png\"></client>\n        <client image=\"./assets/images/client.png\"></client>\n      </clients>\n    </content-section>\n\n    <content-section [image]=\"'./assets/images/content-section2.jpg'\">\n      <headline white>Let\u2019s Build A Better Product Together</headline>\n      <legend white italic>Our team of experienced designers and engineers have partnered with several startups and businesses. For over 10 years, we\u2019ve shipped software and continuously evolved our skills to meet the needs of our partners. From open-source to licensed enterprise tools, we stay sharp.</legend>\n      <btn>Click me</btn>\n      <subtitle white>Our students come from the smartest companies</subtitle>\n    </content-section>\n\n    <content-section>\n      <headline black>Let\u2019s Build A Better Product Together</headline>\n      <legend black italic>Our team of experienced designers and engineers have partnered with several startups and businesses. For over 10 years, we\u2019ve shipped software and continuously evolved our skills to meet the needs of our partners. From open-source to licensed enterprise tools, we stay sharp.</legend>\n      <br/>\n      <br/>\n      <br/>\n      <cards>\n        <a><card image=\"./assets/images/card.jpg\" legend=\"Brazil\" subtitle=\"Brasil\"></card></a>\n        <a><card image=\"./assets/images/card.jpg\" legend=\"Brazil\" subtitle=\"Brasil\"></card></a>\n        <a><card image=\"./assets/images/card.jpg\" legend=\"Brazil\" subtitle=\"Brasil\"></card></a>\n        <a><card image=\"./assets/images/card.jpg\" legend=\"Brazil\" subtitle=\"Brasil\"></card></a>\n        <a><card image=\"./assets/images/card.jpg\" legend=\"Brazil\" subtitle=\"Brasil\"></card></a>\n        <a><card image=\"./assets/images/card.jpg\" legend=\"Brazil\" subtitle=\"Brasil\"></card></a>\n      </cards>\n      <btn color='#e73536' inverted_color='#fff'>See other projects</btn>\n    </content-section>\n\n    <footer>\n      <logo></logo>\n      <subtitle>Oliver Longhi 2019</subtitle>\n    </footer>\n  "
         }),
         tslib__WEBPACK_IMPORTED_MODULE_0__["__metadata"]("design:paramtypes", [])
     ], IndexComponent);
     return IndexComponent;
-}());
-
-
-
-/***/ }),
-
-/***/ "./src/app/pages/not-found/not-found.component.ts":
-/*!********************************************************!*\
-  !*** ./src/app/pages/not-found/not-found.component.ts ***!
-  \********************************************************/
-/*! exports provided: NotFoundComponent */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "NotFoundComponent", function() { return NotFoundComponent; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
-
-
-var NotFoundComponent = /** @class */ (function () {
-    function NotFoundComponent() {
-    }
-    NotFoundComponent.prototype.ngOnInit = function () {
-    };
-    NotFoundComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-        Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
-            selector: 'not-found',
-            template: "\n    <p>\n      not-found works!\n    </p>\n  "
-        }),
-        tslib__WEBPACK_IMPORTED_MODULE_0__["__metadata"]("design:paramtypes", [])
-    ], NotFoundComponent);
-    return NotFoundComponent;
 }());
 
 
